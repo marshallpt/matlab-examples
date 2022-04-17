@@ -1,4 +1,4 @@
-%% Clearing workspace
+%% Preparing workspace
 % Close all windows opened, clear all variables from the workspace, and
 % clear the command window.
 
