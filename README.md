@@ -4,11 +4,12 @@ the syntax for the same things and find myself googling the same terms
 over and over again.
 
 # Keyboard Shortcuts
-*Commenting:*
+**Commenting:**
 - `Ctrl + R`: Comment selected lines
 - `Ctrl + T`: Un-comment selected lines
+- `Ctrl + I`: Smart indent
 
-*Running code:*
+**Running code:**
 - `F5`: Run the whole script
 - `Ctrl + Enter`: Run the current section
 
@@ -19,8 +20,8 @@ I place this at the top of every script I write. Close all windows opened,
 clear all variables from the workspace, and clear the command window.
 
 ```MATLAB
+clear variables;
 close all;
-clear all;
 clc;
 ```
 
